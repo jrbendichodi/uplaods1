@@ -1,0 +1,1 @@
+tcp: {"5671":"development/rabbitmq-rabbitmq-ha:5671"}
